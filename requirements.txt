@@ -1,0 +1,10 @@
+mne
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+torch
+torchvision
+streamlit
+joblib
